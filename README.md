@@ -1,1 +1,1 @@
-# mcp-gateway-readonly-test
+SESSION_C_GITHUB_READONLY_ACCEPTANCE_v1
